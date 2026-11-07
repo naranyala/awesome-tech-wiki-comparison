@@ -1,6 +1,18 @@
 # Awesome tech-related Wikipedia comparisons
 
-A curated catalog of Wikipedia articles comparing technology and information-technology products, software, platforms, hardware, and standards. The list emphasizes technical software comparisons. Each article appears once; entries belong to one section only.
+A broad catalog of Wikipedia articles comparing information technology, software, computing hardware, platforms, and technical standards. The scope is inclusive: keep all relevant comparisons, from broad surveys to specialized technical topics. Each article should appear only once, in its most relevant section.
+
+## Operating systems, platforms, and storage
+
+- [Comparison of operating systems](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
+- [Comparison of Linux distributions](https://en.wikipedia.org/wiki/Comparison_of_Linux_distributions)
+- [Comparison of BSD operating systems](https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems)
+- [Comparison of mobile operating systems](https://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems)
+- [Comparison of file systems](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
+- [Comparison of boot loaders](https://en.wikipedia.org/wiki/Comparison_of_boot_loaders)
+- [Comparison of virtualization software](https://en.wikipedia.org/wiki/Comparison_of_virtualization_software)
+- [Comparison of cloud-computing services](https://en.wikipedia.org/wiki/Comparison_of_cloud-computing_services)
+- [Comparison of cloud-storage services](https://en.wikipedia.org/wiki/Comparison_of_cloud_storage_services)
 
 ## Programming languages and runtimes
 
@@ -23,24 +35,27 @@ A curated catalog of Wikipedia articles comparing technology and information-tec
 - [Comparison of text editors](https://en.wikipedia.org/wiki/Comparison_of_text_editors)
 - [Comparison of version-control software](https://en.wikipedia.org/wiki/Comparison_of_version-control_software)
 - [Comparison of source-code-hosting facilities](https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities)
+- [Comparison of software licenses](https://en.wikipedia.org/wiki/Comparison_of_software_licenses)
 - [Comparison of build automation software](https://en.wikipedia.org/wiki/Comparison_of_build_automation_software)
 - [Comparison of package managers](https://en.wikipedia.org/wiki/Comparison_of_package_managers)
 - [Comparison of unit testing frameworks](https://en.wikipedia.org/wiki/Comparison_of_unit_testing_frameworks)
-- [Comparison of software licenses](https://en.wikipedia.org/wiki/Comparison_of_software_licenses)
 
-## Programming frameworks and web development
+## Frameworks, web platforms, and enterprise software
 
 - [Comparison of web frameworks](https://en.wikipedia.org/wiki/Comparison_of_web_frameworks)
 - [Comparison of server-side web frameworks](https://en.wikipedia.org/wiki/Comparison_of_server-side_web_frameworks)
 - [Comparison of JavaScript frameworks](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
 - [Comparison of JavaScript libraries](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_libraries)
 - [Comparison of JavaScript charting libraries](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_charting_libraries)
-- [Comparison of web browser engines](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
-- [Comparison of web server software](https://en.wikipedia.org/wiki/Comparison_of_web_server_software)
-- [Comparison of application servers](https://en.wikipedia.org/wiki/Comparison_of_application_servers)
 - [Comparison of content management systems](https://en.wikipedia.org/wiki/Comparison_of_content_management_systems)
 - [Comparison of wiki software](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)
 - [Comparison of e-commerce software](https://en.wikipedia.org/wiki/Comparison_of_e-commerce_software)
+- [Comparison of office suites](https://en.wikipedia.org/wiki/Comparison_of_office_suites)
+- [Comparison of project management software](https://en.wikipedia.org/wiki/Comparison_of_project_management_software)
+- [Comparison of note-taking software](https://en.wikipedia.org/wiki/Comparison_of_note-taking_software)
+- [Comparison of statistical packages](https://en.wikipedia.org/wiki/Comparison_of_statistical_packages)
+- [Comparison of computer algebra systems](https://en.wikipedia.org/wiki/Comparison_of_computer_algebra_systems)
+- [Comparison of geographic information systems software](https://en.wikipedia.org/wiki/Comparison_of_geographic_information_systems_software)
 
 ## Databases and data systems
 
@@ -52,51 +67,58 @@ A curated catalog of Wikipedia articles comparing technology and information-tec
 - [Comparison of object database management systems](https://en.wikipedia.org/wiki/Comparison_of_object_database_management_systems)
 - [Comparison of graph databases](https://en.wikipedia.org/wiki/Comparison_of_graph_databases)
 - [Comparison of data serialization formats](https://en.wikipedia.org/wiki/Comparison_of_data_serialization_formats)
-- [Comparison of file systems](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
 - [Comparison of distributed file systems](https://en.wikipedia.org/wiki/Comparison_of_distributed_file_systems)
 - [Comparison of OLAP servers](https://en.wikipedia.org/wiki/Comparison_of_OLAP_servers)
 
-## Operating systems and virtualization
-
-- [Comparison of operating systems](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
-- [Comparison of Linux distributions](https://en.wikipedia.org/wiki/Comparison_of_Linux_distributions)
-- [Comparison of BSD operating systems](https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems)
-- [Comparison of mobile operating systems](https://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems)
-- [Comparison of boot loaders](https://en.wikipedia.org/wiki/Comparison_of_boot_loaders)
-- [Comparison of virtualization software](https://en.wikipedia.org/wiki/Comparison_of_virtualization_software)
-- [Comparison of hypervisors](https://en.wikipedia.org/wiki/Comparison_of_hypervisors)
-
-## Networking, servers, and communications software
+## Web, internet, and communications
 
 - [Comparison of web browsers](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
-- [Comparison of mail servers](https://en.wikipedia.org/wiki/Comparison_of_mail_servers)
-- [Comparison of email clients](https://en.wikipedia.org/wiki/Comparison_of_email_clients)
+- [Comparison of web browser engines](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
+- [Comparison of search engines](https://en.wikipedia.org/wiki/Comparison_of_search_engines)
 - [Comparison of webmail providers](https://en.wikipedia.org/wiki/Comparison_of_webmail_providers)
+- [Comparison of email clients](https://en.wikipedia.org/wiki/Comparison_of_email_clients)
 - [Comparison of instant messaging clients](https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_clients)
 - [Comparison of VoIP software](https://en.wikipedia.org/wiki/Comparison_of_VoIP_software)
+- [Comparison of video hosting services](https://en.wikipedia.org/wiki/Comparison_of_video_hosting_services)
 - [Comparison of BitTorrent clients](https://en.wikipedia.org/wiki/Comparison_of_BitTorrent_clients)
-- [Comparison of FTP client software](https://en.wikipedia.org/wiki/Comparison_of_FTP_clients)
+- [Comparison of mail servers](https://en.wikipedia.org/wiki/Comparison_of_mail_servers)
+- [Comparison of IRC clients](https://en.wikipedia.org/wiki/Comparison_of_IRC_clients)
+- [Comparison of XMPP clients](https://en.wikipedia.org/wiki/Comparison_of_XMPP_clients)
+- [Comparison of FTP clients](https://en.wikipedia.org/wiki/Comparison_of_FTP_clients)
 - [Comparison of DNS server software](https://en.wikipedia.org/wiki/Comparison_of_DNS_server_software)
-- [Comparison of cloud-computing services](https://en.wikipedia.org/wiki/Comparison_of_cloud-computing_services)
-- [Comparison of cloud-storage services](https://en.wikipedia.org/wiki/Comparison_of_cloud_storage_services)
+- [Comparison of web server software](https://en.wikipedia.org/wiki/Comparison_of_web_server_software)
+
+## Infrastructure, networking, and operations
+
+- [Comparison of hypervisors](https://en.wikipedia.org/wiki/Comparison_of_hypervisors)
+- [Comparison of containerization software](https://en.wikipedia.org/wiki/Comparison_of_containerization_software)
+- [Comparison of network monitoring systems](https://en.wikipedia.org/wiki/Comparison_of_network_monitoring_systems)
+- [Comparison of network simulation software](https://en.wikipedia.org/wiki/Comparison_of_network_simulation_software)
+- [Comparison of wireless networking standards](https://en.wikipedia.org/wiki/Comparison_of_wireless_networking_standards)
+- [Comparison of application servers](https://en.wikipedia.org/wiki/Comparison_of_application_servers)
+- [Comparison of reverse proxy software](https://en.wikipedia.org/wiki/Comparison_of_reverse_proxy_software)
+- [Comparison of cache servers](https://en.wikipedia.org/wiki/Comparison_of_cache_servers)
+- [Comparison of load balancers](https://en.wikipedia.org/wiki/Comparison_of_load_balancers)
+- [Comparison of continuous integration software](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
+- [Comparison of configuration management software](https://en.wikipedia.org/wiki/Comparison_of_configuration_management_software)
 
 ## Security and privacy software
 
-- [Comparison of antivirus software](https://en.wikipedia.org/wiki/Comparison_of_antivirus_software)
 - [Comparison of disk encryption software](https://en.wikipedia.org/wiki/Comparison_of_disk_encryption_software)
+- [Comparison of antivirus software](https://en.wikipedia.org/wiki/Comparison_of_antivirus_software)
 - [Comparison of password managers](https://en.wikipedia.org/wiki/Comparison_of_password_managers)
 - [Comparison of firewalls](https://en.wikipedia.org/wiki/Comparison_of_firewalls)
+- [Comparison of cryptography software](https://en.wikipedia.org/wiki/Comparison_of_cryptography_software)
 - [Comparison of secure communication software](https://en.wikipedia.org/wiki/Comparison_of_secure_communication_software)
 - [Comparison of VPN services](https://en.wikipedia.org/wiki/Comparison_of_virtual_private_network_services)
+- [Comparison of backup software](https://en.wikipedia.org/wiki/Comparison_of_backup_software)
 
-## Data, productivity, and business software
+## Data, productivity, and collaboration software
 
-- [Comparison of statistical packages](https://en.wikipedia.org/wiki/Comparison_of_statistical_packages)
 - [Comparison of business intelligence software](https://en.wikipedia.org/wiki/Comparison_of_business_intelligence_software)
 - [Comparison of spreadsheet software](https://en.wikipedia.org/wiki/Comparison_of_spreadsheet_software)
-- [Comparison of office suites](https://en.wikipedia.org/wiki/Comparison_of_office_suites)
-- [Comparison of project management software](https://en.wikipedia.org/wiki/Comparison_of_project_management_software)
-- [Comparison of note-taking software](https://en.wikipedia.org/wiki/Comparison_of_note-taking_software)
+- [Comparison of collaborative software](https://en.wikipedia.org/wiki/Comparison_of_collaborative_software)
+- [Comparison of customer relationship management software](https://en.wikipedia.org/wiki/Comparison_of_customer_relationship_management_software)
 
 ## Graphics, media, and game software
 
@@ -104,18 +126,29 @@ A curated catalog of Wikipedia articles comparing technology and information-tec
 - [Comparison of vector graphics editors](https://en.wikipedia.org/wiki/Comparison_of_vector_graphics_editors)
 - [Comparison of 3D computer graphics software](https://en.wikipedia.org/wiki/Comparison_of_3D_computer_graphics_software)
 - [Comparison of computer-aided design software](https://en.wikipedia.org/wiki/Comparison_of_computer-aided_design_software)
+- [Comparison of animation software](https://en.wikipedia.org/wiki/Comparison_of_animation_software)
+- [Comparison of video editing software](https://en.wikipedia.org/wiki/Comparison_of_video-editing_software)
+- [Comparison of audio editing software](https://en.wikipedia.org/wiki/Comparison_of_audio_editing_software)
 - [Comparison of media players](https://en.wikipedia.org/wiki/Comparison_of_media_players)
 - [Comparison of game engines](https://en.wikipedia.org/wiki/Comparison_of_game_engines)
 
 ## Hardware and technology standards
 
+- [Comparison of computer architectures](https://en.wikipedia.org/wiki/Comparison_of_computer_architectures)
 - [Comparison of microprocessors](https://en.wikipedia.org/wiki/Comparison_of_microprocessors)
 - [Comparison of graphics processing units](https://en.wikipedia.org/wiki/Comparison_of_graphics_processing_units)
+- [Comparison of graphics cards](https://en.wikipedia.org/wiki/Comparison_of_graphics_cards)
 - [Comparison of single-board computers](https://en.wikipedia.org/wiki/Comparison_of_single-board_computers)
 - [Comparison of microcontrollers](https://en.wikipedia.org/wiki/Comparison_of_microcontrollers)
-- [Comparison of wireless networking standards](https://en.wikipedia.org/wiki/Comparison_of_wireless_networking_standards)
+- [Comparison of smartphones](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
+- [Comparison of tablet computers](https://en.wikipedia.org/wiki/Comparison_of_tablet_computers)
+- [Comparison of e-book readers](https://en.wikipedia.org/wiki/Comparison_of_e-book_readers)
 - [Comparison of e-book formats](https://en.wikipedia.org/wiki/Comparison_of_e-book_formats)
+- [Comparison of digital cameras](https://en.wikipedia.org/wiki/Comparison_of_digital_cameras)
+- [Comparison of digital audio players](https://en.wikipedia.org/wiki/Comparison_of_digital_audio_players)
+- [Comparison of game consoles](https://en.wikipedia.org/wiki/Comparison_of_game_consoles)
+- [Comparison of handheld game consoles](https://en.wikipedia.org/wiki/Comparison_of_handheld_game_consoles)
 
 ## Contributing
 
-Add an entry only if it links to an existing Wikipedia article whose main subject is a comparison of technology or IT software, systems, hardware, or standards. Use the article's exact title and canonical URL. Place each article in one section only; do not add a separate highlights list that repeats entries. Avoid speculative titles, red links, and pages that merely mention technology without comparing it.
+This catalog is intentionally inclusive of all technology- and IT-related comparison articles, including broad and specialized topics. Add an entry only when the linked Wikipedia article exists and its main subject is a comparison relevant to computing, software, hardware, communications, or technology standards. Preserve existing relevant entries, use the article's exact title and canonical URL, and place each article in one section only. Do not add speculative titles, red links, or duplicates.
