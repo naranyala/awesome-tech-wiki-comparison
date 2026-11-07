@@ -7,6 +7,7 @@ A curated catalog of Wikipedia articles comparing technology and information-tec
 - [Comparison of programming languages](https://en.wikipedia.org/wiki/Comparison_of_programming_languages)
 - [Comparison of programming languages (syntax)](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))
 - [Comparison of programming languages by type system](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_by_type_system)
+- [Comparison of programming languages by programming paradigm](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_by_programming_paradigm)
 - [Comparison of programming languages (array)](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(array))
 - [Comparison of programming languages (basic instructions)](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions))
 - [Comparison of programming languages (list comprehension)](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(list_comprehension))
